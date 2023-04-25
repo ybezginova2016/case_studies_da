@@ -1,4 +1,4 @@
-# 4 case studies (Data Analytics)
+# 4 Case Studies (Data Analytics)
 
 * 1. Coffee_Beans_Supply 
 * 2. Telecom 
